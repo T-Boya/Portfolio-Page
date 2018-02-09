@@ -1,0 +1,8 @@
+.nav.navbar-nav.navbar-fixed-top li a {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.nav.navbar-nav.navbar-fixed-top {
+    background-color: #616A6B;
+    opacity: 0.5;
+}
